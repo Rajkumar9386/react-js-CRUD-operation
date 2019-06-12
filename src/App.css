@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -30,4 +30,11 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.title-btn-wrapper h1{float: left;}
+.title-btn-wrapper button{
+  float: right;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
